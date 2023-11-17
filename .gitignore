@@ -1,0 +1,8 @@
+__pycache__/
+figs/
+results/
+dem/
+figs.pptx
+*.png
+*.tiff
+*.npy
