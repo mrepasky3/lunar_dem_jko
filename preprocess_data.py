@@ -46,7 +46,7 @@ for i in range(dem_patches.shape[0]):
         retained_dem_patches.append(dem_patches[i])
 retained_dem_patches = np.array(retained_dem_patches)
 
-# np.save("dem/lola_240MPP_dem_patches_{}.npy".format(patch_size),retained_dem_patches)
+np.save("dem/lola_240MPP_dem_patches_{}.npy".format(patch_size),retained_dem_patches)
 
 
 
