@@ -2,7 +2,7 @@
 
 This repository requires the following packges: pytorch, numpy, matplotlib, scikit-learn, argparse, and torchdiffeq. These can all be installed using a Python package manager such as pip.
 
-The file `LDEM_60S_240MPP_ADJ.TIF` must be downloaded from NASA Goddard Space Flight Center's Planetary Geology, Geophysics, and Geochemstry [Laboratory website](https://pgda.gsfc.nasa.gov/products/90) [1]. This is a 240 meter-per-pixel resolution DEM of the lunar south polar region from 60-70 degrees South. Place this file in a new folder called `dem`.
+The file `LDEM_60S_240MPP_ADJ.TIF` must be downloaded from NASA Goddard Space Flight Center's Planetary Geology, Geophysics, and Geochemistry [Laboratory website](https://pgda.gsfc.nasa.gov/products/90) [1]. This is a 240 meter-per-pixel resolution DEM of the lunar south polar region from 60-70 degrees South. Place this file in a new folder called `dem`.
 
 
 # Usage
